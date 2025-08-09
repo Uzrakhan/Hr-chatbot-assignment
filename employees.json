@@ -1,0 +1,132 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "React", "AWS"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 2,
+      "name": "Michael Smith",
+      "skills": ["Java", "Spring Boot", "MySQL"],
+      "experience_years": 7,
+      "projects": ["Banking System", "CRM Tool"],
+      "availability": "busy"
+    },
+    {
+      "id": 3,
+      "name": "Sofia Williams",
+      "skills": ["JavaScript", "Vue.js", "Node.js"],
+      "experience_years": 4,
+      "projects": ["Social Media App", "Event Management System"],
+      "availability": "available"
+    },
+    {
+      "id": 4,
+      "name": "James Brown",
+      "skills": ["C#", ".NET", "Azure"],
+      "experience_years": 6,
+      "projects": ["Inventory Management", "Hospital Records System"],
+      "availability": "busy"
+    },
+    {
+      "id": 5,
+      "name": "Emma Davis",
+      "skills": ["Python", "Django", "PostgreSQL"],
+      "experience_years": 3,
+      "projects": ["Online Learning Platform", "Blog CMS"],
+      "availability": "available"
+    },
+    {
+      "id": 6,
+      "name": "David Miller",
+      "skills": ["PHP", "Laravel", "MySQL"],
+      "experience_years": 8,
+      "projects": ["E-commerce Website", "Job Portal"],
+      "availability": "busy"
+    },
+    {
+      "id": 7,
+      "name": "Olivia Garcia",
+      "skills": ["React", "Node.js", "MongoDB"],
+      "experience_years": 4,
+      "projects": ["Chat Application", "Fitness Tracker"],
+      "availability": "available"
+    },
+    {
+      "id": 8,
+      "name": "Daniel Martinez",
+      "skills": ["Go", "Kubernetes", "Docker"],
+      "experience_years": 6,
+      "projects": ["Cloud Monitoring Tool", "IoT Dashboard"],
+      "availability": "available"
+    },
+    {
+      "id": 9,
+      "name": "Ava Hernandez",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "experience_years": 2,
+      "projects": ["Portfolio Website", "Landing Page Generator"],
+      "availability": "available"
+    },
+    {
+      "id": 10,
+      "name": "William Lopez",
+      "skills": ["Python", "Flask", "SQLAlchemy"],
+      "experience_years": 5,
+      "projects": ["Payment Gateway", "Microservices API"],
+      "availability": "busy"
+    },
+    {
+      "id": 11,
+      "name": "Mia Gonzalez",
+      "skills": ["Ruby", "Rails", "PostgreSQL"],
+      "experience_years": 4,
+      "projects": ["E-learning Portal", "News Aggregator"],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "Benjamin Wilson",
+      "skills": ["Java", "Angular", "OracleDB"],
+      "experience_years": 7,
+      "projects": ["Bank Loan System", "Employee Portal"],
+      "availability": "busy"
+    },
+    {
+      "id": 13,
+      "name": "Isabella Anderson",
+      "skills": ["Swift", "iOS Development", "Firebase"],
+      "experience_years": 3,
+      "projects": ["Food Delivery App", "Expense Tracker"],
+      "availability": "available"
+    },
+    {
+      "id": 14,
+      "name": "Ethan Thomas",
+      "skills": ["Kotlin", "Android Development", "SQLite"],
+      "experience_years": 5,
+      "projects": ["Ride Sharing App", "Note Taking App"],
+      "availability": "available"
+    },
+    {
+      "id": 15,
+      "name": "Charlotte Taylor",
+      "skills": ["JavaScript", "Next.js", "Tailwind CSS"],
+      "experience_years": 2,
+      "projects": ["Blog Website", "E-commerce UI Kit"],
+      "availability": "busy"
+    },
+    {
+      "id": 16,
+      "name": "Henry Moore",
+      "skills": ["Python", "TensorFlow", "Machine Learning"],
+      "experience_years": 6,
+      "projects": ["Image Recognition System", "Chatbot Assistant"],
+      "availability": "available"
+    }
+  ]
+}
